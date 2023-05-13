@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1683993266658,
+  "index": "/angular-todo-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/angular-todo-app/favicon.ico",
+        "/angular-todo-app/index.html",
+        "/angular-todo-app/main.ac17af42343b34b8.js",
+        "/angular-todo-app/manifest.webmanifest",
+        "/angular-todo-app/polyfills.217df7e9712857d7.js",
+        "/angular-todo-app/runtime.cd22c5fb43db61b0.js",
+        "/angular-todo-app/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/angular-todo-app/assets/icons/icon-128x128.png",
+        "/angular-todo-app/assets/icons/icon-144x144.png",
+        "/angular-todo-app/assets/icons/icon-152x152.png",
+        "/angular-todo-app/assets/icons/icon-192x192.png",
+        "/angular-todo-app/assets/icons/icon-384x384.png",
+        "/angular-todo-app/assets/icons/icon-512x512.png",
+        "/angular-todo-app/assets/icons/icon-72x72.png",
+        "/angular-todo-app/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/angular-todo-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular-todo-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular-todo-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular-todo-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular-todo-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular-todo-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular-todo-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular-todo-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-todo-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/angular-todo-app/index.html": "b4b2c82b7de90b58ae38a521e08febba7735528c",
+    "/angular-todo-app/main.ac17af42343b34b8.js": "f095afd01e3d274cbc334311dbfff28244f7463a",
+    "/angular-todo-app/manifest.webmanifest": "4a17033d41b19f97cc660c6a603fdc95226d1704",
+    "/angular-todo-app/polyfills.217df7e9712857d7.js": "0347343ba3e449f2d9c91231ef81aa050ba7123a",
+    "/angular-todo-app/runtime.cd22c5fb43db61b0.js": "bbced18fdf2fabc1edc9581ab1f5c313e6768733",
+    "/angular-todo-app/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
